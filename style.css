@@ -1,1 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+
+:root {
+--cor-principal: rgb(204, 166, 225);
+--cor-secundaria: rgb(210, 151, 190);
+--cor-destaque:white;
+}
+
+body{
+    font-size: 'Chara Petch', sans-serif;
+}
+
+h11,h2,h5 {
+    color: var(--cor-secundaria);
+    font-weight: 700;
+}
+
+footer a{
+    color:var(--cor-principal);
+}
+
+footer a:houver {
+    color: var(--cor-principal);
+}
+
+body.dark-mode {
+    background-color: rgb(31, 3, 45);
+    color:#ffffff;
+}
+
+.dark-mode {
+    margin-top: 20px;
+}
+
+.dark-mode-btn {
+    display: flex;
+}
+
+.dark-mode-btn {
+    background-color: rgb(44, 62, 80);
+    color:white;
+    border-radius: 150px;
+}
+
+.dark-mode-btn:hover {
+    background-color: #ffffff;
+    color:rgb(44, 62, 80);
+    border-radius: 150px;
+}
 
