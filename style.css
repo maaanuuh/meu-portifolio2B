@@ -37,14 +37,14 @@ body.dark-mode {
 }
 
 .dark-mode-btn {
-    background-color: rgb(44, 62, 80);
+    background-color: rgb(83, 9, 38);
     color:white;
     border-radius: 150px;
 }
 
 .dark-mode-btn:hover {
     background-color: #ffffff;
-    color:rgb(44, 62, 80);
+    color:rgb(83, 9, 38);
     border-radius: 150px;
 }
 
